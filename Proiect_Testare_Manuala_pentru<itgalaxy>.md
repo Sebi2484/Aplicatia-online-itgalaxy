@@ -2,7 +2,7 @@
 
 Scopul acestui proiect final pentru ITF Manual Testing este de a folosi cunostintele dobandite de alungul cursului si de a le pune in practica folosind o aplicatie live.
 Aplicatia supusa testarii: itgalaxy
-Unelte folosite:Jira, Zephyr Suad	
+Unelte folosite:Jira, Zephyr Squad	
 Specificatii functionale:
 Story-urile de mai jos au fost create in Jira si descriu specificatiile functionale ale modulului "Livrare" pentru este realizat proiectul final.
 
@@ -10,7 +10,7 @@ Story-urile de mai jos au fost create in Jira si descriu specificatiile function
 ![image](https://github.com/user-attachments/assets/8d1df59d-0551-41ea-a5cf-332df7b411e4)
 ![image](https://github.com/user-attachments/assets/658d4153-31a9-46ea-b893-2ff5dfa3ce94)
 
-Aici este de asemenea releasul care s-a creat pentru proiectul respectiv:
+Aici este de asemenea releas-ul care s-a creat pentru proiectul respectiv:
 
 ![image](https://github.com/user-attachments/assets/34f1293b-2c81-4e02-ae67-d03b43b03c04)
 ![image](https://github.com/user-attachments/assets/3826d37c-032f-42ff-a1a1-82abd12f82ba)
