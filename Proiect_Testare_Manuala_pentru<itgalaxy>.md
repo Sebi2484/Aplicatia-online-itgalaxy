@@ -48,7 +48,7 @@ Rezolvarea sau amânarea defectelor de înaltă prioritate identificate în timp
 <br>Testarea de integrare, testarea de performanta, testarea API, testarea end-to-end, testarea A/B, testarea unitatilor</br>
 
 1.1.5 Riscuri detectate
-Riscuri de proiect:
+Riscuri de produs:
 <br>Un posibil risc de proiect ar putea fi faptul ca pagina web atunci cand este accesata pe un dispozitiv mobil s-ar putea sa fie afisata in mod necorespunzator</br>
 
     **Riscuri de produs:**
