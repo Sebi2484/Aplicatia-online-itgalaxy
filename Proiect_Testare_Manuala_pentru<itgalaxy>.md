@@ -2,31 +2,31 @@
 
 Scopul acestui proiect final pentru ITF Manual Testing este de a folosi cunostintele dobandite de alungul cursului si de a le pune in practica folosind o aplicatie live.
 <br>Aplicatia supusa testarii: magazinul online "itgalaxy"</br>
-Unelte folosite: Jira, Zephyr 	
+<br>Unelte folosite: Jira, Zephyr</br> 	
 Specificatii functionale:
-Story-urile de mai jos au fost create in Jira si descriu specificatiile functionale ale modulului "Livrare" pentru este realizat proiectul final.
+<br>Story-urile de mai jos au fost create in Jira si descriu specificatiile functionale ale modulului "Livrare" pentru este realizat proiectul final.</br>
 
 ![image](https://github.com/user-attachments/assets/8dc833e3-f704-420d-9842-07cbfcf2f474)
 ![image](https://github.com/user-attachments/assets/8d1df59d-0551-41ea-a5cf-332df7b411e4)
 ![image](https://github.com/user-attachments/assets/658d4153-31a9-46ea-b893-2ff5dfa3ce94)
 
-Aici este de asemenea releas-ul care s-a creat pentru proiectul respectiv:
+<br>Aici este de asemenea releas-ul care s-a creat pentru proiectul respectiv:</br>
 
 ![image](https://github.com/user-attachments/assets/34f1293b-2c81-4e02-ae67-d03b43b03c04)
 ![image](https://github.com/user-attachments/assets/3826d37c-032f-42ff-a1a1-82abd12f82ba)
 ![image](https://github.com/user-attachments/assets/7dd52bd2-1fac-42c7-981b-cb2da9cb9575)
 
-Procesul de testare a fost efectuat pe planul de testare standard descris mai jos:
+<br>Procesul de testare a fost efectuat pe planul de testare standard descris mai jos:</br>
 
 https://github.com/Sebi2484/itgalaxy/blob/main/Plan%20de%20testare.md
 
-Roluri stabilite in proiect si persoane alocate:
-Manager de proiect: Marian Ungureanu
-Proprietarul produsului: Gabriel Timoce
-Dezvoltatorul software: Stefan Andrei Gheorghe
-Inginerul QA: Danea Vasile Sebastian
+<br>Roluri stabilite in proiect si persoane alocate:</br>
+<br>Manager de proiect: Marian Ungureanu</br>
+<br>Proprietarul produsului: Gabriel Timoce</br>
+<br>Dezvoltatorul software: Stefan Andrei Gheorghe</br>
+<br>Inginerul QA: Danea Vasile Sebastian</br>
 
-1.1.2 Criterii de intrare definite:
+**1.1.2 Criterii de intrare definite:**
 
 1.1.2 Criterii de intrare definite:
 Datele de testare adecvate trebuie să fie disponibile, inclusiv nu sunt necesare conturi de utilizator, modulele trebuie sa fie disponibile  si sa poata fi vizibil site-ul web al magazinului
