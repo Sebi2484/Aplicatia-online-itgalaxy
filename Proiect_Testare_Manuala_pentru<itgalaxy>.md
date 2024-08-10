@@ -41,40 +41,40 @@ Rezolvarea sau amânarea defectelor de înaltă prioritate identificate în timp
 1.1.4 Scopurile testarii:
 
     **Scopul testarii**
-Teste care fac parte din scop
-Tehnici de testare black box, tehnici de testare functionala, tehnici de testare a interfetei cu utilizatorul, testare de accesibilitate, testarea acceptantei utilizatorului, testarea vizuala, testarea exploratorie 
+<br>Teste care fac parte din scop</br>
+<br>Tehnici de testare black box, tehnici de testare functionala, tehnici de testare a interfetei cu utilizatorul, testare de accesibilitate, testarea acceptantei utilizatorului, testarea vizuala, testarea exploratorie</br>
 
     **Teste care nu fac parte din scop**
-Testarea de integrare, testarea de performanta, testarea API, testarea end-to-end, testarea A/B, testarea unitatilor
+<br>Testarea de integrare, testarea de performanta, testarea API, testarea end-to-end, testarea A/B, testarea unitatilor</br>
 
 1.1.5 Riscuri detectate
 Riscuri de proiect:
-Un posibil risc de proiect ar putea fi faptul ca pagina web atunci cand este accesata pe un dispozitiv mobil s-ar putea sa fie afisata in mod necorespunzator
+<br>Un posibil risc de proiect ar putea fi faptul ca pagina web atunci cand este accesata pe un dispozitiv mobil s-ar putea sa fie afisata in mod necorespunzator</br>
 
     **Riscuri de produs:**
-Riscurile de performanță sunt legate de modul în care site-ul gestionează traficul utilizatorilor si experiența utilizatorului deficitară din cauza navigării confuze, a funcționalității de navigare ineficace sau a lipsei de informații clare despre anumite compartimente
+<br>Riscurile de performanță sunt legate de modul în care site-ul gestionează traficul utilizatorilor si experiența utilizatorului deficitară din cauza navigării confuze, a funcționalității de navigare ineficace sau a lipsei de informații clare despre anumite compartimente</br>
 
     **1.1.6 Evaluare criteriilor de intrare**
-Criteriile de intrare definite în faza de planificare a testării au fost îndeplinite și procesul de testare poate continua
+<br>Criteriile de intrare definite în faza de planificare a testării au fost îndeplinite și procesul de testare poate continua</br>
 
     **Monitorizare si control**
-Se evaluaza și se furnizeaza feedback continuu asupra activităților de testare si se monitorizeaza eventualele erori
+<br>Se evaluaza și se furnizeaza feedback continuu asupra activităților de testare si se monitorizeaza eventualele erori</br>
 
 ![image](https://github.com/user-attachments/assets/58eecd00-d758-4626-b175-47264adfbb03)
 ![image](https://github.com/user-attachments/assets/d3b48e2a-a432-47ed-8f7c-80777e300df7)
 ![image](https://github.com/user-attachments/assets/e83a4376-a8c1-4f12-9bac-b3e46e1bfe9a)
 
-Procesul de testare va fi executat pe baza cerințelor aplicației. 
+<br>Procesul de testare va fi executat pe baza cerințelor aplicației.</br> 
 
-Următoarele condiții de testare au fost găsite:
+<br>Următoarele condiții de testare au fost găsite:</br>
 ![image](https://github.com/user-attachments/assets/d8580d0a-90e9-4662-837a-79eca970d46d)
 
     **1.4 Test Design**
-Cazurile de testare funcțională au fost create în Zephyr Squad pe baza analizei specificațiilor. Cazurile de testare pot fi accesate aici:
+<br>Cazurile de testare funcțională au fost create în Zephyr Squad pe baza analizei specificațiilor. Cazurile de testare pot fi accesate aici:</br>
 https://github.com/Sebi2484/itgalaxy/blob/main/aici%20teste/aici%20test%20case.pdf
 
     **1.5 Implementarea testului**
-Următoarele elemente trebuie să fie pregătite înainte de a începe faza de execuție a testelor:
+<br>Următoarele elemente trebuie să fie pregătite înainte de a începe faza de execuție a testelor:</br>
 
 ![image](https://github.com/user-attachments/assets/19955020-73f4-44c9-b20c-2736bb10c1b7)
 ![image](https://github.com/user-attachments/assets/0c6c1888-0f4a-470c-a2a8-12e3630331d2)
@@ -82,30 +82,30 @@ Următoarele elemente trebuie să fie pregătite înainte de a începe faza de e
 ![image](https://github.com/user-attachments/assets/a359eec3-57c8-49ab-8555-f2b939552477)
 
     **1.6 Executia testelor**
-Cazurile de testare sunt create si executate in cycle summary:
+<br>Cazurile de testare sunt create si executate in cycle summary:</br>
 
 ![image](https://github.com/user-attachments/assets/3b46060b-d98a-4ccb-b58d-94d117f77896)
 ![image](https://github.com/user-attachments/assets/30f11b63-643b-442e-9d14-756f60d59bbc)
 
-Au fost create erori pe baza testelor eșuate. Rapoartele complete ale erorilor pot fi găsite aici:
+<br>Au fost create erori pe baza testelor eșuate. Rapoartele complete ale erorilor pot fi găsite aici:</br>
 ![image](https://github.com/user-attachments/assets/ec130861-ccd8-43bf-83c6-5aef737e83a6)
 
-Urmatoare este o sumarizare a bug-ului gasit
+<br>Urmatoare este o sumarizare a bug-ului gasit</br>
 ![image](https://github.com/user-attachments/assets/23b655a6-7676-482e-a8a2-18bb6a388df0)
 
     **1.7 Incheierea testelor**
-Având în vedere că criteriile de ieșire au fost îndeplinite și satisfăcute, așa cum este menționat în secțiunea corespunzătoare, această funcționalitate este sugerată pentru a fi 'Go Live' de către echipa de testare. Matricea de trasabilitate a fost generată și poate fi găsită aici:
+<br>Având în vedere că criteriile de ieșire au fost îndeplinite și satisfăcute, așa cum este menționat în secțiunea corespunzătoare, această funcționalitate este sugerată pentru a fi 'Go Live' de către echipa de testare. Matricea de trasabilitate a fost generată și poate fi găsită aici:</br>
 ![image](https://github.com/user-attachments/assets/39201a85-4c21-4c93-9ba2-0973721007ce)
 ![image](https://github.com/user-attachments/assets/003c337f-b5c5-4dae-9fad-88d3dafe330f)
 ![image](https://github.com/user-attachments/assets/0fe4fb60-48bb-4b12-9993-c7ff4b166715)
 ![image](https://github.com/user-attachments/assets/784ce138-4297-46f6-8f17-ead35cc430b5)
 
-Diagrama de executie a testelor a fost generata si poate fi gasita aici:
+<br>Diagrama de executie a testelor a fost generata si poate fi gasita aici:</br>
 ![image](https://github.com/user-attachments/assets/e343cddc-d155-44a7-999b-f62ba1ffc3c1)
 
-Raportul final arata ca 1 test a esuat din totalul de 10 teste
+<br>Raportul final arata ca 1 test a esuat din totalul de 10 teste</br>
 
-A fost gasit un bug, a carui prioritate este "high"
+<br>A fost gasit un bug, a carui prioritate este "high"</br>
 
 Au fost create si executate 10 teste, iar 9 au fost rulate cu succes. A fost acoperit un procentaj mare din cerintele de scop. Planul a fost respectat, astfel ca nu exista functionalitati care sa nu fi fost acoperite, bug-ul gasit are o prioritate "high", insa nu impacteaza lansarea produsului in productie in mod semnificativ , este insa o functionalitate necesara, dar se poate remedia. Un risc de produs este acela in care interfata cu utilizatorul ar fi incompatibila cu telefoanele mobile in ceea ce priveste aspectul si probabil ar trebui sa se tina evidenta in ceea ce priveste compatibilitatea cu diverse dispozitive in alte proiecte.
 
