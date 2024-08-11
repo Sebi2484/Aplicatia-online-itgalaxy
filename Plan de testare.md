@@ -49,10 +49,10 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 
 **2.1. Planificarea testarii**
 <br></br>
-/Verificam sectiunea “Livrare” din pagina web "itgalaxy" daca aceasta contine informatiile utile necesare atat navigarii cat si orientarii in pagina, dar si din punct de vedere al informatiilor afisate pentru utilizatori
-/Verificam sectiunea “support online” din pagina web "itgalaxy" in ceea ce priveste cazurile  de testare din cadrul epicului Livrare
-/Se verifica  sectiunea “Modalitati livrare” din cadrul epicului “Livrare”
-/Se verifica formularele din cadrul sectiunii de suport online care sunt structurate pe diferite departamente
+<br>/Verificam sectiunea “Livrare” din pagina web "itgalaxy" daca aceasta contine informatiile utile necesare atat navigarii cat si orientarii in pagina, dar si din punct de vedere al informatiilor afisate pentru utilizatori</br>
+<br>/Verificam sectiunea “support online” din pagina web "itgalaxy" in ceea ce priveste cazurile  de testare din cadrul epicului Livrare</br>
+<br>/Se verifica  sectiunea “Modalitati livrare” din cadrul epicului “Livrare”</br>
+<br>/Se verifica formularele din cadrul sectiunii de suport online care sunt structurate pe diferite departamente</br>
 
 <br>Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea ce priveste aceasta sectiune si pagina:</br>
 ![image](https://github.com/user-attachments/assets/02276e41-7c1b-4c43-b8e9-734b9f23c5e4)
