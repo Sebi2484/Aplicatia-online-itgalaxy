@@ -41,7 +41,7 @@ Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod 
 </br><br>
 ##1.1. Scopul
 </br><br>
-Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța unui magazin online
+Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța magazinului online
 <br></br>
 ##1.2.Functionalitati in scop
 <br>Domeniul de aplicare al acestui proiect JIRA poate fi ajustat în funcție de cerințele, prioritățile și constrângerile specifice ale proiectului</br>
@@ -84,7 +84,7 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 </br><br>
 **Preconditii: utilizatorul nu trebuie sa fie neaparat logat pentru a utiliza facilitatile si resursele necesare care se incadreaza la procesele de testare
 <br></br>
-**Postcondiții:  fiecare camp sau informatie vizata din pagina trebuie sa fie vizibila in cazul acestui magazin online, iar completarea campurilor ar trebui si trimiterea diverselor informatii ar trebui sa functioneze in mod corespunzator
+**Postcondiții:  fiecare camp sau informatie vizata din pagina trebuie sa fie vizibila in cazul acestui magazin online, iar completarea campurilor si trimiterea diverselor informatii ar trebui sa functioneze in mod corespunzator
 <br></br>
 Utilizam testarea manuala si folosim in cadrul acestui site tehnici de testare black box si testare functionala in ceea ce priveste vizibilitatea si completarea campurilor din cadrul departamentelor din sectiunea de suport online. Utilizam testarea acceptantei utilizatorului in cadrul formularelor de contact pentru a vedea daca sunt indeplinite criteriile in ceea ce priveste nevoile utilizatorilor si ghidarea acestora si validarea campurilor de completat din cadrul departamentelor de suport online si testarea exploratorie, fiind siguri ca aceste campuri functioneaza corect in anumite conditii.
 
