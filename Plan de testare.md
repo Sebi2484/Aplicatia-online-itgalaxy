@@ -6,7 +6,7 @@
 **Data:                30.07.2024**
 **Autor:              Danea Vasile Sebastian**
 
-Test Plan .................................................................................................................
+Test Plan ....................................................
 <br></br>
 <br>1. Introducere............................................</br>
 <br>1.1.Scopul................................................</br>
@@ -43,11 +43,12 @@ Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod 
 Viteza de incarcare a site-ului este una buna si aceasta se comporta potrivit pe laptop, dar pe telefonul mobil pot aparea anumite inconveniente din punct de vedere al aspectului 
 
 **1.3.Functionalitati in afara scopului**
+</br><br>
 Proiectul se concentrează pe testarea aspectelor  funcționale ale magazinului online, care sunt completarea campurilor, trimiterea mesajelor, și modul in care utilizatorul poate sa vada informatiile din interfata in cadrul metodelor de livrare si verificare a produselor
 Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilitatea, ar fi considerate în afara domeniului de aplicare al acestui proiect specific.
 
 ##2. Procesul de testare
-
+</br><br>
 **2.1. Planificarea testarii**
 <br></br>
 <br>/Verificam sectiunea “Livrare” din pagina web "itgalaxy" daca aceasta contine informatiile utile necesare atat navigarii cat si orientarii in pagina, dar si din punct de vedere al informatiilor afisate pentru utilizatori</br>
@@ -95,6 +96,7 @@ Test case-urile sunt stabilite in functie de ceea ce se considera a fi testat in
 ![image](https://github.com/user-attachments/assets/706243a3-b993-4812-a772-2ac896b7fb7f)
 <br></br>
 2.1.4.Alocarea resurselor pentru cazurile de testare
+</br><br>
 Se aloca resursele necesare in ceea ce priveste cazurile de testare:
 
 ![image](https://github.com/user-attachments/assets/e6a947a6-277e-4f81-8e27-7108bad57200)
@@ -109,13 +111,14 @@ Acestea sunt cazurile de testare care cuprind diverse aspecte supuse testelor ca
 /Se identifica principalele caracteristici, funcționalități și comportamente așteptate care trebuie validate prin testare precum campurile si alte functionalitati vizuale
 <br></br>
 S-au efectuat executii ale testelor :
-
+</br><br>
 ![image](https://github.com/user-attachments/assets/85dcca7e-bff2-4799-8074-517ebe5d3dbf)
 <br></br>
 In mod implicit avem 9 teste valide si unul la care a fost observata o eroare 
 In cazul erorii putem sa spunem ca este o prioritate mare in ceea ce priveste rezolvarea imediata a acesteia.
 <br></br>
 **2.2.2. Impartirea story-urilor in scenarii de testare**
+</br><br>
 Se precizeaza si se descompun urmatoarele story-uri:
 <br></br>
 ![image](https://github.com/user-attachments/assets/93616aed-ac33-4e9e-94a6-a56fcf88cba8)
@@ -177,24 +180,27 @@ Configuratia testelor si rularea acestora cu rezultat:
 In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username, ci trebuie completat cu numele utilizatorului
 
 ##2.7. Monitorizarea testului si control
+</br><br>
 Se evaluaza și furnizeaza feedback continuu asupra activităților de testare si se monitorizeaza traficul pe site și indicatorii de angajament a utilizatorilor, ca si numărul de vizualizări de pagini, rata de bounce, timpul petrecut pe site.Se monitorizeaza eficienta paginilor in ceea ce priveste organizarea si orientarea utilizatorului si se urmaresc eventuale erori din cadrul campurilor care trebuie completate sau a unor erori de compatibilitate.
 <br></br>
 **3. Livrabile de testare**
 <br></br><br></br>
 ##3.1.Test plan
 Se verifica funcționalitatea întregului site, se valideaza exactitatea și completitudinea datelor despre suport online, formularele de contact din cadrul departamentelor online si modul de completare al acestora. 
-
+</br><br>
 In cadrul site-ului se verifica si modul in care utilizatorul vede informatia in cadrul modalitatilor de livrare din cadrul epicului "Livrare" si se urmareste daca datele sunt actuale si imbunatatite in cazul in care sunt necesare explicatii mai amanuntite.
-
+</br><br>
 **3.2.Conditii de testare**
+</br><br>
 Hardware: Testul facut pe un calculator windows 10, cu 8gb ram,procesor i3 sau asemanator si un hard drive sau ssd cu macar 20gb spatiu liber
 Software: Se foloseste google chrome sau mozilla firefox pentru testare.
 Capacitate retea: se asigura o viteza de internet stabila si o largime de banda minima cu un minim de 4mbps download si 2mbps upload
-
+</br><br>
 Roluri: se testeaza cu utilizatorul neinregistrat sau inregistrat.
 Configuratii de sistem: se configureaza sistemul pentru testarea functionalitatii in cadrul suportului online, al formularelor si al modalitatilor de livrare.
-
+</br><br>
 ##3.3.Cazuri de testare
+</br><br>
 <br>Cazurile de testare pozitive (9) si negative(1) care cuprindeau pasii care au fost explicati inainte, ca exemplu:</br>
 
 ![image](https://github.com/user-attachments/assets/5a718a34-feab-4c48-93b9-b85f406a7059)
@@ -217,33 +223,38 @@ Configuratii de sistem: se configureaza sistemul pentru testarea functionalitati
 <br>10. Verifică dacă secțiunea "Verificarea coletului la livrare" conține informații despre verificarea produselor</br>
 
 ##3.4. Rapoarte zilnice
+</br><br>
 Se intocmesc rapoarte in vederea urmaririi eventualelor defecte sau erori
 <br></br>
 ![image](https://github.com/user-attachments/assets/841cd9c4-61a9-4f97-89a5-77d5b1985d11)
 ![image](https://github.com/user-attachments/assets/20e2d3f0-b6a5-4aae-a999-7dd609aba626)
 
 **3.5. Matricea de trasabilitate**
+</br><br>
 Se realizeaza o matrice de trasabilitate avand in vedere cele prezentate:
 
 ![image](https://github.com/user-attachments/assets/cd69bd33-6729-416f-bc15-1565b4a4813f)
 ![image](https://github.com/user-attachments/assets/f8210209-7482-4090-9e28-ce1bdd8d67d8)
 
 ##3.6. Rezultate test case-uri
+</br><br>
 Rezultatele cazurilor de testare in urma executarii testelor : 9 cazuri de testare pass si 1 fail
 
 ![image](https://github.com/user-attachments/assets/d440099e-16a4-48f3-bc5c-f9b5868fe99e)
 
 **3.7. Raportari de bug-uri**
+</br><br>
 Aplicația ar trebui sa aiba un camp pentru introducerea username-ului unui utilizator la formularul de contact din cadrul departamentului de vanzari ,dar utilizatorul nu are permisiunea sa introduca numele ca si o combinatie intre litere si cifre, astfel ca avem un bug.
 
 ![image](https://github.com/user-attachments/assets/4a7caab5-8bca-47f8-951d-c770c87eb168)
 
 ##3.8. Raport de testare completa
+</br><br>
 ![image](https://github.com/user-attachments/assets/39080fee-6721-4b0d-b81e-cce16d72a5a6)
 ![image](https://github.com/user-attachments/assets/7e6082ba-e748-4d33-a014-82446695cfcb)
 ![image](https://github.com/user-attachments/assets/df6bef96-49f9-4d29-995c-8eba929bee22)
 ![image](https://github.com/user-attachments/assets/f4a9796e-d11d-4156-83fa-e65e68791114)
-
+</br><br>
 In cadrul acestui magazin online se vor efectua si alte teste si vor fi imbunatatite anumite aspecte si functionalitati in ceea ce priveste diverse puncte de vedere.
 
 
