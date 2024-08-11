@@ -51,6 +51,7 @@ Viteza de incarcare a site-ului este una buna si aceasta se comporta potrivit pe
 **1.3.Functionalitati in afara scopului**
 </br><br>
 Proiectul se concentrează pe testarea aspectelor  funcționale ale magazinului online, care sunt completarea campurilor, trimiterea mesajelor, și modul in care utilizatorul poate sa vada informatiile din interfata in cadrul metodelor de livrare si verificare a produselor
+</br><br>
 Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilitatea, ar fi considerate în afara domeniului de aplicare al acestui proiect specific.
 </br><br>
 ##2. Procesul de testare
