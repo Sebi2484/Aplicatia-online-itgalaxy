@@ -67,11 +67,17 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 ![image](https://github.com/user-attachments/assets/02276e41-7c1b-4c43-b8e9-734b9f23c5e4)
 <br></br>
 /Se verifica daca pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularelor din pagina de suport online 
+<br></br>
 /Se verifica  dacă pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularului
+<br></br>
 /Testare in cadrul formularelor daca sunt afișate toate opțiunile valide
+<br></br>
 /Testarea faptului că utilizatorii nu pot trimite formulare pe pagina web fără a completa toate câmpurile
+<br></br>
 /Testam daca pagina afișează mesaje de eroare clare dacă un câmp obligatoriu este lăsat necompletat
+<br></br>
 /Testam daca informatiile sunt vizibile in datele de contact ale formularelor
+<br></br>
 /Testam daca informatiile esentiale pot fi vizibile in mod corespunzator
 <br></br>
 ##2.1.2.Identificarea cazurilor de testare
