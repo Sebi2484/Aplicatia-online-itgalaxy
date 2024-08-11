@@ -64,7 +64,7 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 <br>/Se verifica  sectiunea “Modalitati livrare” din cadrul epicului “Livrare”</br>
 <br>/Se verifica formularele din cadrul sectiunii de suport online care sunt structurate pe diferite departamente</br>
 
-<br>Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea ce priveste aceasta sectiune si pagina:</br>
+<br>Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea ce priveste aceasta sectiune si pagina avand epicul:</br>
 ![image](https://github.com/user-attachments/assets/02276e41-7c1b-4c43-b8e9-734b9f23c5e4)
 <br></br>
 /Se verifica daca pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularelor din pagina de suport online 
