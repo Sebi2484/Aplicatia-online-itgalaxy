@@ -35,7 +35,7 @@ Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod 
 ##1.1. Scopul
 
 Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța unui magazin online
-
+<br></br>
 ##1.2.Functionalitati in scop
 <br>Domeniul de aplicare al acestui proiect JIRA poate fi ajustat în funcție de cerințele, prioritățile și constrângerile specifice ale proiectului</br>
 <br>Se verifica faptul ca pot sa fie urmati pasii pentru a ajunge in diferitele parti care trebuiesc testate in ceea ce priveste modul in care utilizatorul foloseste site-ul</br>
@@ -69,7 +69,7 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 **Preconditii: utilizatorul nu trebuie sa fie neaparat logat pentru a utiliza facilitatile si resursele necesare care se incadreaza la procesele de testare
 <br></br>
 **Postcondiții:  fiecare camp sau informatie vizata din pagina trebuie sa fie vizibila in cazul acestui magazin online, iar completarea campurilor ar trebui si trimiterea diverselor informatii ar trebui sa functioneze in mod corespunzator
-
+<br></br>
 Utilizam testarea manuala si folosim in cadrul acestui site tehnici de testare black box si testare functionala in ceea ce priveste vizibilitatea si completarea campurilor din cadrul departamentelor din sectiunea de suport online. Utilizam testarea acceptantei utilizatorului in cadrul formularelor de contact pentru a vedea daca sunt indeplinite criteriile in ceea ce priveste nevoile utilizatorilor si ghidarea acestora si validarea campurilor de completat din cadrul departamentelor de suport online si testarea exploratorie, fiind siguri ca aceste campuri functioneaza corect in anumite conditii.
 
 <br>Se efectueza numerose task-uri pentru a evidentia procesul de testare:</br>
@@ -101,36 +101,36 @@ Se aloca resursele necesare in ceea ce priveste cazurile de testare:
 Acestea sunt cazurile de testare care cuprind diverse aspecte supuse testelor care vor fi efectuate in Jira si gestionate corespunzator
 
 **2.2. Analiza testarii**
-
+<br></br>
 ##2.2.1. Intelegerea requirement-urilor, a proprietatilor si a potentiale riscuri
 /Se revizuieste si se analizeaza în detaliu story-urile create, cerințele funcționale și orice altă documentație din acest proiect.
 
 /Se identifica principalele caracteristici, funcționalități și comportamente așteptate care trebuie validate prin testare precum campurile si alte functionalitati vizuale
-
+<br></br>
 S-au efectuat executii ale testelor :
 
 ![image](https://github.com/user-attachments/assets/85dcca7e-bff2-4799-8074-517ebe5d3dbf)
-
+<br></br>
 In mod implicit avem 9 teste valide si unul la care a fost observata o eroare 
 In cazul erorii putem sa spunem ca este o prioritate mare in ceea ce priveste rezolvarea imediata a acesteia.
-
+<br></br>
 **2.2.2. Impartirea story-urilor in scenarii de testare**
 Se precizeaza si se descompun urmatoarele story-uri:
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/93616aed-ac33-4e9e-94a6-a56fcf88cba8)
 ![image](https://github.com/user-attachments/assets/ef501768-2f46-4b1f-ac9b-b180f6f5178e)
 ![image](https://github.com/user-attachments/assets/6048b45d-25de-4aa5-8135-54e23808098f)
-
+<br></br>
 ##2.3. Designul de testare
 
 **2.3.1.Crearea cazurilor de testare detaliate cu pasi clari si asteptari anticipate**
 Cazurile de testare din zephyr squad sunt:
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/4594ad0f-7ef8-495a-bdfb-761bf60e037f)
 ![image](https://github.com/user-attachments/assets/d2ea01b3-3f98-46bc-81d4-c299399bcbb7)
-
+<br></br>
 Acestia sunt pasii specifici fiecarui caz de testare din cadrul acestui magazin online:
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/001a06d5-057a-465a-b0d3-b40417b844ea)
 ![image](https://github.com/user-attachments/assets/8e583eb4-3456-4dec-b8c1-8e8fb6ea8f3d)
 ![image](https://github.com/user-attachments/assets/841a6a56-5f74-406a-bade-f956dca9c5e0)
@@ -140,18 +140,18 @@ Acestia sunt pasii specifici fiecarui caz de testare din cadrul acestui magazin 
 ![image](https://github.com/user-attachments/assets/5a3c4750-be56-433e-a2a2-ba02581824fe)
 ![image](https://github.com/user-attachments/assets/9c2b11f7-ed82-448c-8c22-e2ed6e803956)
 ![image](https://github.com/user-attachments/assets/f94edd52-1dc8-4d39-a130-a1e381ea0832)
-
+<br></br>
 S-au creat urmatoarele cazuri de testare:
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/2a08727e-11b1-42e0-9687-69ed6a1b4c42)
 ![image](https://github.com/user-attachments/assets/5edefcca-cd01-4d33-89f8-a69f50ff1ec7)
 ![image](https://github.com/user-attachments/assets/60bf4a30-0738-4cfc-969a-3e4676a81194)
-
+<br></br>
 **2.3.2.Definirea conditiilor de testare**
 Testarea se face pe conditii de testare
-
+<br></br>
 2.4. Implementarea testului
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/deaea02d-5122-49cc-a7cb-a080ea4ac2f0)
 ![image](https://github.com/user-attachments/assets/04b8f347-e0af-4aae-ac9e-9e71682b183b)
 ![image](https://github.com/user-attachments/assets/cf1aee86-5e9d-40df-8d56-d1813849f621)
@@ -173,9 +173,9 @@ In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori se
 
 ##2.7. Monitorizarea testului si control
 Se evaluaza și furnizeaza feedback continuu asupra activităților de testare si se monitorizeaza traficul pe site și indicatorii de angajament a utilizatorilor, ca si numărul de vizualizări de pagini, rata de bounce, timpul petrecut pe site.Se monitorizeaza eficienta paginilor in ceea ce priveste organizarea si orientarea utilizatorului si se urmaresc eventuale erori din cadrul campurilor care trebuie completate sau a unor erori de compatibilitate.
-
+<br></br>
 **3. Livrabile de testare**
-
+<br></br><br></br>
 ##3.1.Test plan
 Se verifica funcționalitatea întregului site, se valideaza exactitatea și completitudinea datelor despre suport online, formularele de contact din cadrul departamentelor online si modul de completare al acestora. 
 
@@ -190,29 +190,30 @@ Roluri: se testeaza cu utilizatorul neinregistrat sau inregistrat.
 Configuratii de sistem: se configureaza sistemul pentru testarea functionalitatii in cadrul suportului online, al formularelor si al modalitatilor de livrare.
 
 ##3.3.Cazuri de testare
-Cazurile de testare pozitive (9) si negative(1) care cuprindeau pasii care au fost explicati inainte, ca exemplu:
+<br>Cazurile de testare pozitive (9) si negative(1) care cuprindeau pasii care au fost explicati inainte, ca exemplu:</br>
+
 ![image](https://github.com/user-attachments/assets/5a718a34-feab-4c48-93b9-b85f406a7059)
 
-Avem aceste 10 cazuri de testare: 
+<br>Avem aceste 10 cazuri de testare:</br>
 
 ![image](https://github.com/user-attachments/assets/94ac8eb9-e291-4632-b61a-ca50bebef02c)
 
-Aceste 10 cazuri de testare verifica si se asigura de urmatoarele:
+<br>Aceste 10 cazuri de testare verifica si se asigura de urmatoarele:</br>
 
-1. Verifică dacă pagina de Suport Online conține suficiente informații legate de magazin, asigurându-te că utilizatorul poate accesa toate departamentele de suport enumerate și că are posibilitatea de a accesa departamentele de suport în funcție de alegerea făcută. 
-2. Verifică dacă în categoria "Departamentul logistică" un câmp poate fi completat corespunzător prin introducerea numelui utilizatorului și că acesta este validat. 
-3. Verifică dacă în categoria de suport "Departamentul financiar" un câmp poate fi completat corespunzător prin introducerea adresei de email a utilizatorului și că acesta este validat. 
-4. Verifică dacă categoria de suport "Departamentul Marketing" are un câmp care poate fi completat corespunzător prin introducerea numărului de telefon al utilizatorului și că acesta este validat 
-5. Verifică dacă categoria de suport "Departamentul Vânzări" are un câmp care poate fi completat corespunzător prin introducerea locației utilizatorului după nume și că acesta este validat
-6. Verifică dacă secțiunea "Puncte de fidelitate" are câmpuri care conțin informații despre descrierea punctelor de fidelitate, condițiile aferente acestora și modul de utilizare, și verifică dacă datele sunt actualizate. 
-7. Verifică dacă categoria de suport "Managementul produselor" are un câmp care poate fi completat corespunzător prin introducerea mesajului utilizatorului și că acesta poate fi trimis către suportul specific pentru managementul produselor
-8. Verifică dacă categoria "Modalități de livrare" are o pagină care conține multiple informații despre expedierea produselor.
-9. Verifică dacă formularul "Departamentul Vânzări" din categoria de suport online are un câmp în secțiunea de date de contact care poate fi completat cu numele utilizatorului, scris și ca nume de utilizator, inclusiv cifre (aici avem bug-ul)
-10. Verifică dacă secțiunea "Verificarea coletului la livrare" conține informații despre verificarea produselor
+<br>1. Verifică dacă pagina de Suport Online conține suficiente informații legate de magazin, asigurându-te că utilizatorul poate accesa toate departamentele de suport enumerate și că are posibilitatea de a accesa departamentele de suport în funcție de alegerea făcută.</br> 
+<br>2. Verifică dacă în categoria "Departamentul logistică" un câmp poate fi completat corespunzător prin introducerea numelui utilizatorului și că acesta este validat. </br>
+<br>3. Verifică dacă în categoria de suport "Departamentul financiar" un câmp poate fi completat corespunzător prin introducerea adresei de email a utilizatorului și că acesta este validat. </br>
+<br>4. Verifică dacă categoria de suport "Departamentul Marketing" are un câmp care poate fi completat corespunzător prin introducerea numărului de telefon al utilizatorului și că acesta este validat </br>
+<br>5. Verifică dacă categoria de suport "Departamentul Vânzări" are un câmp care poate fi completat corespunzător prin introducerea locației utilizatorului după nume și că acesta este validat</br>
+<br>6. Verifică dacă secțiunea "Puncte de fidelitate" are câmpuri care conțin informații despre descrierea punctelor de fidelitate, condițiile aferente acestora și modul de utilizare, și verifică dacă datele sunt actualizate. </br>
+<br>7. Verifică dacă categoria de suport "Managementul produselor" are un câmp care poate fi completat corespunzător prin introducerea mesajului utilizatorului și că acesta poate fi trimis către suportul specific pentru managementul produselor</br>
+<br>8. Verifică dacă categoria "Modalități de livrare" are o pagină care conține multiple informații despre expedierea produselor.</br>
+<br>9. Verifică dacă formularul "Departamentul Vânzări" din categoria de suport online are un câmp în secțiunea de date de contact care poate fi completat cu numele utilizatorului, scris și ca nume de utilizator, inclusiv cifre (aici avem bug-ul)</br>
+<br>10. Verifică dacă secțiunea "Verificarea coletului la livrare" conține informații despre verificarea produselor</br>
 
 ##3.4. Rapoarte zilnice
 Se intocmesc rapoarte in vederea urmaririi eventualelor defecte sau erori
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/841cd9c4-61a9-4f97-89a5-77d5b1985d11)
 ![image](https://github.com/user-attachments/assets/20e2d3f0-b6a5-4aae-a999-7dd609aba626)
 
