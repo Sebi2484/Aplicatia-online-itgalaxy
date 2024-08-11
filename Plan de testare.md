@@ -149,6 +149,7 @@ Cazurile de testare din zephyr squad sunt:
 <br></br>
 ![image](https://github.com/user-attachments/assets/4594ad0f-7ef8-495a-bdfb-761bf60e037f)
 ![image](https://github.com/user-attachments/assets/d2ea01b3-3f98-46bc-81d4-c299399bcbb7)
+![image](https://github.com/user-attachments/assets/2d36b641-c353-4c78-b260-6ed2b36b28e1)
 <br></br>
 Acestia sunt pasii specifici fiecarui caz de testare din cadrul acestui magazin online:
 <br></br>
