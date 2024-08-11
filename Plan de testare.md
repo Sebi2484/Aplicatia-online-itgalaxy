@@ -1,10 +1,15 @@
 # itgalaxy
 
 **Test Plan:              IT Galaxy**
+</br><br>
 **Proiect:             Jira Functional Testing**
+</br><br>
 **Versiunea:                  1. 01**
+</br><br>
 **Data:                30.07.2024**
+</br><br>
 **Autor:              Danea Vasile Sebastian**
+</br><br>
 
 Test Plan ....................................................
 <br></br>
