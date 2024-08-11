@@ -46,7 +46,8 @@ Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod 
 ##1.2.Functionalitati in scop
 <br>Domeniul de aplicare al acestui proiect JIRA poate fi ajustat în funcție de cerințele, prioritățile și constrângerile specifice ale proiectului</br>
 <br>Se verifica faptul ca pot sa fie urmati pasii pentru a ajunge in diferitele parti care trebuiesc testate in ceea ce priveste modul in care utilizatorul foloseste site-ul</br>
-Viteza de incarcare a site-ului este una buna si aceasta se comporta potrivit pe laptop, dar pe telefonul mobil pot aparea anumite inconveniente din punct de vedere al aspectului 
+<br></br>
+Viteza de incarcare a site-ului este una buna si acesta se comporta potrivit pe laptop, dar pe telefonul mobil pot aparea anumite inconveniente din punct de vedere al aspectului 
 </br><br>
 **1.3.Functionalitati in afara scopului**
 </br><br>
