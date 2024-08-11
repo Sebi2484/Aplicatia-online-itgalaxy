@@ -31,6 +31,7 @@ Test Plan ......................................................................
 <br>3.8. Raport de testare completa...........................</br>
    
 **1. Introducere**
+</br><br>
 Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța magazinului online . Scopul este de a se asigura că pagina web si magazinul online itgalaxy aflat la: https://www.itgalaxy.ro/ îndeplinește cerințele definite, oferă o experiență de utilizare fără probleme și este lipsită de orice defecte sau probleme critice
 ##1.1. Scopul
 
@@ -122,8 +123,9 @@ Se precizeaza si se descompun urmatoarele story-uri:
 ![image](https://github.com/user-attachments/assets/6048b45d-25de-4aa5-8135-54e23808098f)
 <br></br>
 ##2.3. Designul de testare
-
+</br><br>
 **2.3.1.Crearea cazurilor de testare detaliate cu pasi clari si asteptari anticipate**
+</br><br>
 Cazurile de testare din zephyr squad sunt:
 <br></br>
 ![image](https://github.com/user-attachments/assets/4594ad0f-7ef8-495a-bdfb-761bf60e037f)
@@ -148,6 +150,7 @@ S-au creat urmatoarele cazuri de testare:
 ![image](https://github.com/user-attachments/assets/60bf4a30-0738-4cfc-969a-3e4676a81194)
 <br></br>
 **2.3.2.Definirea conditiilor de testare**
+</br><br>
 Testarea se face pe conditii de testare
 <br></br>
 2.4. Implementarea testului
@@ -164,11 +167,13 @@ Testarea se face pe conditii de testare
 ![image](https://github.com/user-attachments/assets/2ce38651-0369-4a0a-9cd7-33de48590b84)
 
 ##2.5. Executarea testelor
+</br><br>
 Configuratia testelor si rularea acestora cu rezultat:
 
 ![image](https://github.com/user-attachments/assets/2cfa905c-7760-4f69-97d5-323f91c5b6e0)
 
 **2.6. Concluzia testarii**
+</br><br>
 In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username, ci trebuie completat cu numele utilizatorului
 
 ##2.7. Monitorizarea testului si control
