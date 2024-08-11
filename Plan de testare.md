@@ -69,15 +69,15 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 <br></br>
 /Se verifica daca pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularelor din pagina de suport online 
 <br></br>
-/Se verifica  dacă pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularului
+/Se verifica  dacă pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide într-un camp evidentiat al formularului
 <br></br>
 /Testare in cadrul formularelor daca sunt afișate toate opțiunile valide
 <br></br>
 /Testarea faptului că utilizatorii nu pot trimite formulare pe pagina web fără a completa toate câmpurile
 <br></br>
-/Testam daca pagina afișează mesaje de eroare clare dacă un câmp obligatoriu este lăsat necompletat
-<br></br>
 /Testam daca informatiile sunt vizibile in datele de contact ale formularelor
+<br></br>
+Testam daca formularul afișează mesaje de eroare clare dacă un câmp obligatoriu este lăsat necompletat
 <br></br>
 /Testam daca informatiile esentiale pot fi vizibile in mod corespunzator
 <br></br>
@@ -197,6 +197,7 @@ Configuratia testelor si rularea acestora cu rezultat:
 **2.6. Concluzia testarii**
 </br><br>
 In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username, ci trebuie completat cu numele utilizatorului
+
 </br><br>
 ![image](https://github.com/user-attachments/assets/869c4f76-11b9-4074-b8e2-c10cae67c319)
 ![image](https://github.com/user-attachments/assets/fb8743ad-f34b-4817-8313-005ef05ad807)
@@ -285,6 +286,7 @@ Aplicația ar trebui sa aiba un camp pentru introducerea username-ului unui util
 ![image](https://github.com/user-attachments/assets/df6bef96-49f9-4d29-995c-8eba929bee22)
 ![image](https://github.com/user-attachments/assets/f4a9796e-d11d-4156-83fa-e65e68791114)
 </br><br>
+
 In cadrul acestui magazin online se vor efectua si alte teste si vor fi imbunatatite anumite aspecte si functionalitati in ceea ce priveste diverse puncte de vedere.
 
 
