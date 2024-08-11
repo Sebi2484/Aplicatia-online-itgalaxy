@@ -167,6 +167,7 @@ Testarea se face pe conditii de testare
 <br></br>
 2.4. Implementarea testului
 <br></br>
+
 ![image](https://github.com/user-attachments/assets/deaea02d-5122-49cc-a7cb-a080ea4ac2f0)
 ![image](https://github.com/user-attachments/assets/04b8f347-e0af-4aae-ac9e-9e71682b183b)
 ![image](https://github.com/user-attachments/assets/cf1aee86-5e9d-40df-8d56-d1813849f621)
@@ -189,6 +190,11 @@ Configuratia testelor si rularea acestora cu rezultat:
 **2.6. Concluzia testarii**
 </br><br>
 In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username, ci trebuie completat cu numele utilizatorului
+</br><br>
+![image](https://github.com/user-attachments/assets/869c4f76-11b9-4074-b8e2-c10cae67c319)
+![image](https://github.com/user-attachments/assets/fb8743ad-f34b-4817-8313-005ef05ad807)
+![image](https://github.com/user-attachments/assets/dcc21068-8250-4c5c-b8f3-87e3724e613e)
+
 </br><br>
 
 ##2.7. Monitorizarea testului si control
