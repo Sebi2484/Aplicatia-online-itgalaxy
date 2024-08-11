@@ -4,13 +4,13 @@ Scopul acestui proiect final pentru ITF Manual Testing este de a folosi cunostin
 <br>Aplicatia supusa testarii: magazinul online "itgalaxy"</br>
 <br>Unelte folosite: Jira, Zephyr</br> 	
 Specificatii functionale:
-<br>Story-urile de mai jos au fost create in Jira si descriu specificatiile functionale ale modulului "Livrare" pentru este realizat proiectul final.</br>
+<br>Story-urile de mai jos au fost create in Jira si descriu specificatiile functionale ale modulului "Livrare" pentru care este realizat proiectul final.</br>
 
 ![image](https://github.com/user-attachments/assets/8dc833e3-f704-420d-9842-07cbfcf2f474)
 ![image](https://github.com/user-attachments/assets/8d1df59d-0551-41ea-a5cf-332df7b411e4)
 ![image](https://github.com/user-attachments/assets/658d4153-31a9-46ea-b893-2ff5dfa3ce94)
 
-<br>Aici este de asemenea releas-ul care s-a creat pentru proiectul respectiv:</br>
+<br>Aici este de asemenea release-ul care s-a creat pentru proiectul respectiv:</br>
 
 ![image](https://github.com/user-attachments/assets/34f1293b-2c81-4e02-ae67-d03b43b03c04)
 ![image](https://github.com/user-attachments/assets/3826d37c-032f-42ff-a1a1-82abd12f82ba)
@@ -32,6 +32,7 @@ https://github.com/Sebi2484/itgalaxy/blob/main/Plan%20de%20testare.md
 Datele de testare adecvate trebuie să fie disponibile, inclusiv nu sunt necesare conturi de utilizator, modulele trebuie sa fie disponibile  si sa poata fi vizibil site-ul web al magazinului
 Se realizeaza un plan de testare care descrie domeniul de aplicare, obiectivele și strategia pentru testarea unor functionalitati ale magazinului online. 
 Ne asiguram ca dispunem de hardware-ul, software-ul și configurațiile rețelei necesare pentru testarea aplicatiei
+
 1.1.3 Criterii de iesire definite:
 Atingerea unui nivel definit de acoperire pentru cerințe, povești utilizator, funcționalitate
 Asigurarea că funcționalitățile critice din cadrul campurilor destinate utilizatorilor si informatiile vizuale din anumite compartimente sunt vizibile
