@@ -7,28 +7,28 @@
 **Autor:              Danea Vasile Sebastian**
 
 Test Plan .................................................................................................................
-
-1. Introducere............................................
-1.1.Scopul................................................
-1.2. Functionalitati in Scop..............................
-1.3. Functionalitati in afara scopului....................
-2. Procesul de testare....................................
-2.1. Planificarea testarii................................
-2.2. Analiza testarii.....................................
-2.3. Designul de testare..................................
-2.4. Implementarea testului...............................
-2.5. Executarea testelor..................................
-2.6. Concluzia testarii...................................
-2.7. Monitorizarea testului si control....................
-3. Livrabile de testare...................................
-3.1. Test plan............................................
-3.2. Conditii de testare..................................
-3.3. Cazuri de testare....................................
-3.4. Rapoarte zilnice.....................................
-3.5. Matricea de trasabilitate............................
-3.6. Rezultate test case-uri..............................
-3.7. Raportari de bug-uri.................................
-3.8. Raport de testare completa...........................
+<br></br>
+<br>1. Introducere............................................</br>
+<br>1.1.Scopul................................................</br>
+<br>1.2. Functionalitati in Scop..............................</br>
+<br>1.3. Functionalitati in afara scopului....................</br>
+<br>2. Procesul de testare....................................</br>
+<br>2.1. Planificarea testarii................................</br>
+<br>2.2. Analiza testarii.....................................</br>
+<br>2.3. Designul de testare..................................</br>
+<br>2.4. Implementarea testului...............................</br>
+<br>2.5. Executarea testelor..................................</br>
+<br>2.6. Concluzia testarii...................................</br>
+<br>2.7. Monitorizarea testului si control....................</br>
+<br>3. Livrabile de testare...................................</br>
+<br>3.1. Test plan............................................</br>
+<br>3.2. Conditii de testare..................................</br>
+<br>3.3. Cazuri de testare....................................</br>
+<br>3.4. Rapoarte zilnice.....................................</br>
+<br>3.5. Matricea de trasabilitate............................</br>
+<br>3.6. Rezultate test case-uri..............................</br>
+<br>3.7. Raportari de bug-uri.................................</br>
+<br>3.8. Raport de testare completa...........................</br>
    
 **1. Introducere**
 Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța magazinului online . Scopul este de a se asigura că pagina web si magazinul online itgalaxy aflat la: https://www.itgalaxy.ro/ îndeplinește cerințele definite, oferă o experiență de utilizare fără probleme și este lipsită de orice defecte sau probleme critice
@@ -37,8 +37,8 @@ Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod 
 Obiectivul principal al acestui proiect JIRA este de a testa și valida în mod aprofundat funcționalitatea, utilizabilitatea și performanța unui magazin online
 
 ##1.2.Functionalitati in scop
-Domeniul de aplicare al acestui proiect JIRA poate fi ajustat în funcție de cerințele, prioritățile și constrângerile specifice ale proiectului
-Se verifica faptul ca pot sa fie urmati pasii pentru a ajunge in diferitele parti care trebuiesc testate in ceea ce priveste modul in care utilizatorul foloseste site-ul
+<br>Domeniul de aplicare al acestui proiect JIRA poate fi ajustat în funcție de cerințele, prioritățile și constrângerile specifice ale proiectului</br>
+<br>Se verifica faptul ca pot sa fie urmati pasii pentru a ajunge in diferitele parti care trebuiesc testate in ceea ce priveste modul in care utilizatorul foloseste site-ul</br>
 Viteza de incarcare a site-ului este una buna si aceasta se comporta potrivit pe laptop, dar pe telefonul mobil pot aparea anumite inconveniente din punct de vedere al aspectului 
 
 **1.3.Functionalitati in afara scopului**
@@ -48,14 +48,15 @@ Cerințele nefuncționale, cum ar fi performanța, securitatea și utilizabilita
 ##2. Procesul de testare
 
 **2.1. Planificarea testarii**
+<br></br>
 /Verificam sectiunea “Livrare” din pagina web "itgalaxy" daca aceasta contine informatiile utile necesare atat navigarii cat si orientarii in pagina, dar si din punct de vedere al informatiilor afisate pentru utilizatori
 /Verificam sectiunea “support online” din pagina web "itgalaxy" in ceea ce priveste cazurile  de testare din cadrul epicului Livrare
 /Se verifica  sectiunea “Modalitati livrare” din cadrul epicului “Livrare”
 /Se verifica formularele din cadrul sectiunii de suport online care sunt structurate pe diferite departamente
 
-Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea ce priveste aceasta sectiune si pagina:
+<br>Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea ce priveste aceasta sectiune si pagina:</br>
 ![image](https://github.com/user-attachments/assets/02276e41-7c1b-4c43-b8e9-734b9f23c5e4)
-
+<br></br>
 /Se verifica daca pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularelor din pagina de suport online 
 /Se verifica  dacă pagina web afișează mesaje de eroare utile dacă utilizatorul introduce date nevalide în orice câmp al formularului
 /Testare in cadrul formularelor daca sunt afișate toate opțiunile valide
@@ -63,15 +64,15 @@ Se fac verificari in diverse aspecte in instrumentul de gestionare Jira in ceea 
 /Testam daca pagina afișează mesaje de eroare clare dacă un câmp obligatoriu este lăsat necompletat
 /Testam daca informatiile sunt vizibile in datele de contact ale formularelor
 /Testam daca informatiile esentiale pot fi vizibile in mod corespunzator
-
+<br></br>
 ##2.1.2.Identificarea cazurilor de testare
 **Preconditii: utilizatorul nu trebuie sa fie neaparat logat pentru a utiliza facilitatile si resursele necesare care se incadreaza la procesele de testare
-
+<br></br>
 **Postcondiții:  fiecare camp sau informatie vizata din pagina trebuie sa fie vizibila in cazul acestui magazin online, iar completarea campurilor ar trebui si trimiterea diverselor informatii ar trebui sa functioneze in mod corespunzator
 
 Utilizam testarea manuala si folosim in cadrul acestui site tehnici de testare black box si testare functionala in ceea ce priveste vizibilitatea si completarea campurilor din cadrul departamentelor din sectiunea de suport online. Utilizam testarea acceptantei utilizatorului in cadrul formularelor de contact pentru a vedea daca sunt indeplinite criteriile in ceea ce priveste nevoile utilizatorilor si ghidarea acestora si validarea campurilor de completat din cadrul departamentelor de suport online si testarea exploratorie, fiind siguri ca aceste campuri functioneaza corect in anumite conditii.
 
-Se efectueza numerose task-uri pentru a evidentia procesul de testare:
+<br>Se efectueza numerose task-uri pentru a evidentia procesul de testare:</br>
 
 ![image](https://github.com/user-attachments/assets/81071c9c-f8de-4222-a631-fe6254de8841)
 ![image](https://github.com/user-attachments/assets/94b657c3-2104-434d-bb59-d5dd6ea02ed1)
@@ -87,11 +88,11 @@ Se efectueza numerose task-uri pentru a evidentia procesul de testare:
 ![image](https://github.com/user-attachments/assets/10cb8ab9-1413-4f5d-9a5b-a29bcc9ee54d)
 
 ##2.1.3. Identificarea test case-urilor
-
+<br></br>
 Test case-urile sunt stabilite in functie de ceea ce se considera a fi testat in cadrul task-urilor:
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/706243a3-b993-4812-a772-2ac896b7fb7f)
-
+<br></br>
 2.1.4.Alocarea resurselor pentru cazurile de testare
 Se aloca resursele necesare in ceea ce priveste cazurile de testare:
 
