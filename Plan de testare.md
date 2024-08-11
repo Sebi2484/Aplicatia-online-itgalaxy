@@ -6,7 +6,7 @@
 </br><br>
 **Versiunea:                  1. 01**
 </br><br>
-**Data:                30.07.2024**
+**Data:                14.08.2024**
 </br><br>
 **Autor:              Danea Vasile Sebastian**
 </br><br>
