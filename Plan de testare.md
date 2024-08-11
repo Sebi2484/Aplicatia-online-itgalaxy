@@ -269,6 +269,7 @@ Se realizeaza o matrice de trasabilitate avand in vedere cele prezentate:
 </br><br>
 Rezultatele cazurilor de testare in urma executarii testelor : 9 cazuri de testare pass si 1 fail
 
+![image](https://github.com/user-attachments/assets/ab0355c5-6c00-4eaf-85f6-eaa5c46cb338)
 ![image](https://github.com/user-attachments/assets/d440099e-16a4-48f3-bc5c-f9b5868fe99e)
 
 </br><br>
