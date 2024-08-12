@@ -100,6 +100,11 @@ https://github.com/Sebi2484/itgalaxy/blob/main/aici%20teste/aici%20test%20case.p
 ![image](https://github.com/user-attachments/assets/003c337f-b5c5-4dae-9fad-88d3dafe330f)
 ![image](https://github.com/user-attachments/assets/0fe4fb60-48bb-4b12-9993-c7ff4b166715)
 ![image](https://github.com/user-attachments/assets/784ce138-4297-46f6-8f17-ead35cc430b5)
+<br></br>
+Matricea de trasabilitate dupa filtrare cu story:
+<br></br>
+![image](https://github.com/user-attachments/assets/2b8b2c7c-63f5-4107-87bf-8ab86a757669)
+<br></br>
 
 <br>Diagrama de executie a testelor a fost generata si poate fi gasita aici:</br>
 ![image](https://github.com/user-attachments/assets/e343cddc-d155-44a7-999b-f62ba1ffc3c1)
