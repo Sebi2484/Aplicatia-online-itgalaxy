@@ -254,7 +254,7 @@ Configuratia testelor si rularea acestora cu rezultat:
 </br><br>
 **2.6. Concluzia testarii**
 </br><br>
-In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username, ci trebuie completat cu numele utilizatorului
+In urma executarii acestor pasi din zephyr, se poate observa ca nu avem erori semnificative asa cum erau prezentate mai sus atat testele fail, cat si pass si se poate observa o eroare in cadrul departamentului de vanzari din suportul online care are un camp ce nu poate fi completat sub forma de username ca si combinatie de litere si cifre, ci trebuie completat cu numele in litere al utilizatorului
 
 </br><br>
 ![image](https://github.com/user-attachments/assets/869c4f76-11b9-4074-b8e2-c10cae67c319)
