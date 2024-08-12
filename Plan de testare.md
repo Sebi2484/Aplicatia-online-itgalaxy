@@ -148,7 +148,7 @@ In cazul erorii putem sa spunem ca este o prioritate mare in ceea ce priveste re
 </br><br>
 Se precizeaza si se descompun urmatoarele story-uri:
 <br></br>
-![image](https://github.com/user-attachments/assets/93616aed-ac33-4e9e-94a6-a56fcf88cba8)
+![image](https://github.com/user-attachments/assets/63aa7c77-b100-4e2b-9c0b-0f890df3ce48)
 <br></br>
 ![image](https://github.com/user-attachments/assets/ef501768-2f46-4b1f-ac9b-b180f6f5178e)
 <br></br>
