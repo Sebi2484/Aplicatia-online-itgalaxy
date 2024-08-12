@@ -149,7 +149,9 @@ In cazul erorii putem sa spunem ca este o prioritate mare in ceea ce priveste re
 Se precizeaza si se descompun urmatoarele story-uri:
 <br></br>
 ![image](https://github.com/user-attachments/assets/93616aed-ac33-4e9e-94a6-a56fcf88cba8)
+<br></br>
 ![image](https://github.com/user-attachments/assets/ef501768-2f46-4b1f-ac9b-b180f6f5178e)
+<br></br>
 ![image](https://github.com/user-attachments/assets/6048b45d-25de-4aa5-8135-54e23808098f)
 <br></br>
 ##2.3. Designul de testare
@@ -159,7 +161,9 @@ Se precizeaza si se descompun urmatoarele story-uri:
 Cazurile de testare din zephyr squad sunt:
 <br></br>
 ![image](https://github.com/user-attachments/assets/4594ad0f-7ef8-495a-bdfb-761bf60e037f)
+<br></br>
 ![image](https://github.com/user-attachments/assets/d2ea01b3-3f98-46bc-81d4-c299399bcbb7)
+<br></br>
 ![image](https://github.com/user-attachments/assets/2d36b641-c353-4c78-b260-6ed2b36b28e1)
 <br></br>
 Acestia sunt pasii specifici fiecarui caz de testare din cadrul acestui magazin online:
@@ -194,16 +198,26 @@ Testarea se face pe conditii de testare
 <br></br>
 2.4. Implementarea testului
 <br></br>
-
+Se implementeaza urmatoarele in cadrul acestui magazin online:
+<br></br>
 ![image](https://github.com/user-attachments/assets/deaea02d-5122-49cc-a7cb-a080ea4ac2f0)
+<br></br>
 ![image](https://github.com/user-attachments/assets/04b8f347-e0af-4aae-ac9e-9e71682b183b)
+<br></br>
 ![image](https://github.com/user-attachments/assets/cf1aee86-5e9d-40df-8d56-d1813849f621)
+<br></br>
 ![image](https://github.com/user-attachments/assets/93af94c9-20ff-4221-9a83-3e9345f4f2bb)
+<br></br>
 ![image](https://github.com/user-attachments/assets/619a1460-af0d-448d-b87e-5f448fe0fb36)
+<br></br>
 ![image](https://github.com/user-attachments/assets/45844d1d-df62-4352-9768-4ddd49164d66)
+<br></br>
 ![image](https://github.com/user-attachments/assets/b410541d-da4b-483d-80d9-15a0ea2693e3)
+<br></br>
 ![image](https://github.com/user-attachments/assets/ac9aafa2-1844-451a-b908-d17a8cc39083)
+<br></br>
 ![image](https://github.com/user-attachments/assets/31f94a9b-c4a4-4303-9461-abff7d9e2aef)
+<br></br>
 ![image](https://github.com/user-attachments/assets/2ce38651-0369-4a0a-9cd7-33de48590b84)
 
 </br><br>
