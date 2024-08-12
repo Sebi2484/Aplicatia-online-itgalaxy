@@ -194,6 +194,63 @@ Configuratia testelor si rularea acestora cu rezultat:
 
 ![image](https://github.com/user-attachments/assets/2cfa905c-7760-4f69-97d5-323f91c5b6e0)
 
+<br>1.Rezultatul testului care verifica daca pagina cu puncte de fidelitate are campuri care contin informatii despre punctele de fidelitate si conditiile despre cum sa fie folosite si verificam daca datele sunt actualizate in pagina</br>
+![image](https://github.com/user-attachments/assets/dbc7ab82-c988-4c6d-b28c-6c0cad71fc2a)
+
+<br></br>
+
+<br>.2Rezultatul testului care verifica daca in departamentul financiar din pagina de suport online , formularul poate fi completat in campul cu email introducand adresa de email a utilizatorului, aceasta fiind validata </br>
+![image](https://github.com/user-attachments/assets/d62ec054-227f-453a-9804-4cb374c7b16f)
+![image](https://github.com/user-attachments/assets/746c8a38-bed4-418a-a705-a1d094c3dace)
+
+<br></br>
+
+<br>3.Rezultatul testului care verifica daca in departamentul de logistica din cadrul suportului online, campul cu numele poate fi completat adecvat, introducand numele utilizatorului si fiind validat</br>
+![image](https://github.com/user-attachments/assets/b339b037-93ef-45c1-8106-bba0356ce535)
+![image](https://github.com/user-attachments/assets/7d212cab-978c-49b1-9cbd-ec11983e8b92)
+
+<br></br>
+
+<br>4.Rezultatul testului care verifica daca pagina de suport online contine informatii despre sectiunea de suport, un sumar concis si ca departamentele de suport online sunt vizibile </br>
+![image](https://github.com/user-attachments/assets/a8e2d778-5826-4135-bd83-45c69fa25a44)
+![image](https://github.com/user-attachments/assets/1258838a-8295-44c8-886f-3f36aec16435)
+
+<br></br>
+
+<br>5.Rezultatul testului care verifica daca pagina "Verificarea coletului la livrare"  contine informatii despre verificarea pachetului, are informatii despre posibilitatea de a returna produsele si are o descriere despre costurile de expeditie</br>
+![image](https://github.com/user-attachments/assets/2f978c9d-622a-48ef-be6f-56cf98573e3a)
+![image](https://github.com/user-attachments/assets/96def13d-f797-4e94-90d3-427515013d16)
+
+<br></br>
+
+<br>6.Rezultatul testului care verifica daca pagina "Modalitati de Livrare" din cadrul epicului "Livrare" continte informatii despre cum sunt livrate produsele si are o sectiune despre posibilitatile de livrare</br>
+![image](https://github.com/user-attachments/assets/b517a3ef-3b27-4178-9f35-1de941fb1c2f)
+![image](https://github.com/user-attachments/assets/9a11475a-4460-4815-88cc-c78310b8a7e2)
+
+<br></br>
+
+<br>7.Rezultatul testului care verifica daca utilizatorul poate da click pe "Product Management" din sectiunea de suport online ,aparand astfel formularul si campul cu mesaje sa poate <fi completat adecvat introducand mesajul utilizatorului, acesta fiind validat si trimis la adresa specifica/br>
+![image](https://github.com/user-attachments/assets/5712eccf-cfde-4acd-b73e-73c1f7d8043b)
+![image](https://github.com/user-attachments/assets/a5d4fd1c-ba1c-4a89-855e-ebf1ad8b7a45)
+
+<br></br>
+
+<br>8.Rezultatul testului care verifica daca in departamentul de vanzari la formular, campul cu locatia poate fi completat introducand locatia utilizatorului si fiind validata</br>
+![image](https://github.com/user-attachments/assets/1f69689a-332e-4945-817e-6bb5eb42f9ab)
+![image](https://github.com/user-attachments/assets/d335dcaa-a30c-4b56-b812-2c76780c9d7e)
+
+<br></br>
+
+<br>9.Rezultatul testului care verifica daca in departamentul de marketing, campul cu telefonul poate fi completat introducand numarul de telefon al utilizatorului si fiind validat</br>
+![image](https://github.com/user-attachments/assets/2bc6f493-fad8-4a65-aac2-20e3b58957f9)
+![image](https://github.com/user-attachments/assets/7c9220a6-2757-4da7-950e-a85fcf4e6cf6)
+
+<br></br>
+
+<br>10.Rezultatul testului care verifica daca in departamentul de vanzari un camp cu numele poate fi completat introducant un nume al utilizatorului dintr-o combinatie de litere si cifre</br>
+![image](https://github.com/user-attachments/assets/bbd200a0-9e89-4a01-8909-c9bad4a13b23)
+![image](https://github.com/user-attachments/assets/666e51c8-a932-4a13-9e1a-fe1abf8bed4e)
+
 </br><br>
 **2.6. Concluzia testarii**
 </br><br>
@@ -272,6 +329,8 @@ Rezultatele cazurilor de testare in urma executarii testelor : 9 cazuri de testa
 
 ![image](https://github.com/user-attachments/assets/ab0355c5-6c00-4eaf-85f6-eaa5c46cb338)
 ![image](https://github.com/user-attachments/assets/d440099e-16a4-48f3-bc5c-f9b5868fe99e)
+![image](https://github.com/user-attachments/assets/c807be1c-ca50-40a0-8300-a1ce6fb9d2c1)
+
 
 </br><br>
 **3.7. Raportari de bug-uri**
