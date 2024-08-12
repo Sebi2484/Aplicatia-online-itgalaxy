@@ -355,6 +355,10 @@ Se realizeaza o matrice de trasabilitate avand in vedere cele prezentate:
 ![image](https://github.com/user-attachments/assets/cd69bd33-6729-416f-bc15-1565b4a4813f)
 ![image](https://github.com/user-attachments/assets/f8210209-7482-4090-9e28-ce1bdd8d67d8)
 
+Matricea de trasabilitate este filtrata dupa story: 
+<br></br>
+![image](https://github.com/user-attachments/assets/edc199d6-9542-4d43-b65d-0e707453e85d)
+<br></br>
 </br><br>
 ##3.6. Rezultate test case-uri
 </br><br>
