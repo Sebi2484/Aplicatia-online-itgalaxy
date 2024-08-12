@@ -92,16 +92,27 @@ Utilizam testarea manuala si folosim in cadrul acestui site tehnici de testare b
 <br>Se efectueza numerose task-uri pentru a evidentia procesul de testare:</br>
 
 ![image](https://github.com/user-attachments/assets/81071c9c-f8de-4222-a631-fe6254de8841)
+<br></br>
 ![image](https://github.com/user-attachments/assets/94b657c3-2104-434d-bb59-d5dd6ea02ed1)
+<br></br>
 ![image](https://github.com/user-attachments/assets/2e1f52de-bcc0-4eab-8f85-a65a7e9e2ddf)
+<br></br>
 ![image](https://github.com/user-attachments/assets/8855138c-37cd-43ac-832a-60d62022c4ec)
+<br></br>
 ![image](https://github.com/user-attachments/assets/bc028596-9b7d-4e2e-8ee7-f8aa8f7af494)
+<br></br>
 ![image](https://github.com/user-attachments/assets/fdf2a421-b5ab-497f-8cd1-567e918bf659)
+<br></br>
 ![image](https://github.com/user-attachments/assets/49b67f63-7724-4f31-a5fc-5db590b98d8b)
+<br></br>
 ![image](https://github.com/user-attachments/assets/ed8b4ed0-cb23-4621-af0f-5e17e3fc7271)
+<br></br>
 ![image](https://github.com/user-attachments/assets/aa5afc5b-8ab7-46cc-9f19-8b06be6384fd)
+<br></br>
 ![image](https://github.com/user-attachments/assets/0616efbf-c79d-4a90-ba7c-63acb567b081)
+<br></br>
 ![image](https://github.com/user-attachments/assets/4e37b9c5-8b09-444b-9e15-081d88e200e1)
+<br></br>
 ![image](https://github.com/user-attachments/assets/10cb8ab9-1413-4f5d-9a5b-a29bcc9ee54d)
 </br><br>
 ##2.1.3. Identificarea test case-urilor
