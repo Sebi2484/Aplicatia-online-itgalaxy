@@ -154,13 +154,21 @@ Cazurile de testare din zephyr squad sunt:
 Acestia sunt pasii specifici fiecarui caz de testare din cadrul acestui magazin online:
 <br></br>
 ![image](https://github.com/user-attachments/assets/001a06d5-057a-465a-b0d3-b40417b844ea)
+<br></br>
 ![image](https://github.com/user-attachments/assets/8e583eb4-3456-4dec-b8c1-8e8fb6ea8f3d)
+<br></br>
 ![image](https://github.com/user-attachments/assets/841a6a56-5f74-406a-bade-f956dca9c5e0)
+<br></br>
 ![image](https://github.com/user-attachments/assets/2b9979fe-ae6e-46b7-be5e-f3cf95564c48)
+<br></br>
 ![image](https://github.com/user-attachments/assets/be29c349-e8d1-4dee-946b-5b95758e0e8a)
+<br></br>
 ![image](https://github.com/user-attachments/assets/844bc4a0-479b-45ae-8ec8-5ae3b5f4caa2)
+<br></br>
 ![image](https://github.com/user-attachments/assets/5a3c4750-be56-433e-a2a2-ba02581824fe)
+<br></br>
 ![image](https://github.com/user-attachments/assets/9c2b11f7-ed82-448c-8c22-e2ed6e803956)
+<br></br>
 ![image](https://github.com/user-attachments/assets/f94edd52-1dc8-4d39-a130-a1e381ea0832)
 <br></br>
 S-au creat urmatoarele cazuri de testare:
